@@ -14,4 +14,4 @@ The display device will include a ESP32S3 processor, a battery, a OLED screen, a
 
 ## Part 4
 ![Image of how the devices communicate](/img/IMG_0180.JPG)
-![Image of how the devices connected](/img/IMG_0181.JPG)
+![Image of how the devices connected](/img/project-6.jpg)
