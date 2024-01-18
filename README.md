@@ -6,12 +6,12 @@
 
 ## Part 2 - Sensor Device
 The sensor device will include a MPU6050 motion sensor, a pulse sensor, a ESP32S3 processor and a battery. The components will be sewed on a glove so users can wear it when doing jumping jacks without worrying it to fall down.
-![Image of how the sensor device](/img/IMG_0177.JPG)
+![Image of how the sensor device](/img/IMG_0177.jpg)
 
 ## Part 3 - Display Device
 The display device will include a ESP32S3 processor, a battery, a OLED screen, a button, a LED, a stepper motor driver breakout board (Adafruit TB6612 1.2A DC/Stepper Motor Driver Breakout Board) and a stepper-motor-driven gauge needle (x27.168). 
 ![Image of how the sensor device](/img/IMG_0E696555909C-1.jpeg)
 
 ## Part 4
-![Image of how the devices communicate](/img/IMG_0180.JPG)
+![Image of how the devices communicate](/img/IMG_0180.jpg)
 ![Image of how the devices connected](/img/project-6.jpg)
